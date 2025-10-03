@@ -7,7 +7,7 @@ if (navToggle) {
     navToggle.setAttribute('aria-expanded', String(!opened));
   });
 }
-
+/**/
 document.getElementById('year').textContent = new Date().getFullYear();
 
 const dateFilter = document.getElementById('dateFilter');

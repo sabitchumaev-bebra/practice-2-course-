@@ -13,7 +13,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxyge
 .nav-list { list-style: none; display: flex; gap: 16px; margin: 0; padding: 0; }
 .nav a, .linklike { text-decoration: none; color: #222; }
 .linklike { background: none; border: none; cursor: pointer; font: inherit; padding: 0; }
-
+/**/
 .hero { background: linear-gradient(135deg, #e0f2ff, #f5faff); border-bottom: 1px solid #eee; }
 .hero-inner { padding: 64px 0; text-align: center; }
 .hero .btn { margin-top: 12px; }
